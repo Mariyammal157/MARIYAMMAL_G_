@@ -1,0 +1,1 @@
+pipeline_agent/psa_architecture.jpg
